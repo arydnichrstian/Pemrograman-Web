@@ -95,7 +95,7 @@
                              <br><br><h1 style="font-weight: bold;">Pendaftaran Online</h5>
                         </div>
                     
-                        <form action="konfirmasi.php" method="POST">
+                        <form action="KonfirmasiPMB.php" method="POST">
                             <div class="form-group row my-2">
                                     <div class="col-md-12 marbot-10">
                                         <a>Jalur Penerimaaan Mahasiswa Baru*</a>
