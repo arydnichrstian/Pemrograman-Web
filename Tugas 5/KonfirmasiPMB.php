@@ -18,13 +18,13 @@
     text-align: center;
     padding: 0;
     list-style: none;
-    background-color: #f2f2f2;
+    background-color: #FFFFFF;
     border-bottom: 1px solid #ccc;
     border-top: 1px solid #ccc; 
     margin-left: 0px;
     }
     .navbar {
-        background-color: #212529 !important;
+        background-color: #964B00 !important;
     }
     .navbar li{
         margin-left: 50px;
@@ -85,8 +85,8 @@
         </ul>
     </div>
     <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <input class="form-control mr-sm-2" type="Cari" placeholder="Cari" aria-label="Cari">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Cari</button>
     </form>
     </nav>
 
