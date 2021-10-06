@@ -18,13 +18,13 @@
     text-align: center;
     padding: 0;
     list-style: none;
-    background-color: #f2f2f2;
+    background-color: #FFFFFF;
     border-bottom: 1px solid #ccc;
     border-top: 1px solid #ccc; 
     margin-left: 0px;
     }
     .navbar {
-        background-color: #212529 !important;
+        background-color: #964B00 !important;
     }
     .navbar li{
         margin-left: 50px;
@@ -82,8 +82,8 @@
         </ul>
     </div>
     <form class="form-inline">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline my-2 my-sm-0" type="submit">Search</button>
+        <input class="form-control mr-sm-2" type="Cari" placeholder="Cari" aria-label="Cari">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Cari</button>
     </form>
         
     </nav>
@@ -95,7 +95,7 @@
                              <br><br><h1 style="font-weight: bold;">Pendaftaran Online</h5>
                         </div>
                     
-                        <form action="KonfirmasiPMB.php" method="POST">
+                        <form action="konfirmasiPMB.php" method="POST">
                             <div class="form-group row my-2">
                                     <div class="col-md-12 marbot-10">
                                         <a>Jalur Penerimaaan Mahasiswa Baru*</a>
@@ -354,7 +354,7 @@
                                 </div>
                             </div>
                         <div>
-                            <button class="btn btn--radius-2 btn--blue" type="submit">Register</button>
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Daftar</button>
                         </div>
                         </form>   
                 </div>
